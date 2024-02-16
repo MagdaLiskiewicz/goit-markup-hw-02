@@ -31,19 +31,19 @@ ul {
   color: #404bbf;
 }
 
-.contact-links {
+.contact-link {
   font-weight: 400;
   line-height: 1.5;
   text-decoration: none;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.contact-links:hover,
+.contact-link:hover,
 .contact-link:focus {
   color: #404bbf;
 }
 
-.contact-links:active {
+.contact-link:active {
   color: #404bbf;
 }
 
